@@ -33,13 +33,7 @@ The "Source code" links GitHub adds to every release only contain this README an
 
 ## First launch
 
-Gridget Bardot is not notarized by Apple, so macOS asks before opening it the first time.
-
-1. Open the disk image and drag Gridget Bardot to Applications.
-2. Open Gridget Bardot once. macOS says it can't check the app.
-3. Go to System Settings › Privacy & Security and click Open Anyway.
-
-You only need to do this once.
+Open the disk image, drag Gridget Bardot to Applications and open it. The app is signed and notarized by Apple, so macOS opens it without the Privacy & Security detour.
 
 ## Privacy
 
